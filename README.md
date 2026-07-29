@@ -39,7 +39,7 @@ Rather than relying on an existing disciplinary points system (like the FA's), e
 ## Dashboard Walkthrough
 
 ### 1. Referee Strictness Analysis
-![Referee Strictness Analysis](screenshots/01 referee strictness analysis.jpg)
+![Referee Strictness Analysis](screenshots/01_referee_strictness_analysis.jpg)
 
 
 This page ranks every qualifying referee (40+ matches) by a composite Strictness Index built from fouls, yellow cards, and red cards per match. The scatter plot maps average fouls per match against average cards per match, split into quadrants like "by the book" and "hands off," with bubble size representing total matches officiated. D. Coote emerges as the strictest official by a wide margin, while J. Gillett is the most lenient. The ranked table breaks the composite score down into its individual components so any ranking can be traced back to what's actually driving it.
